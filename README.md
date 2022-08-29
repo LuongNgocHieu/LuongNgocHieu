@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lương Ngọc Hiếu
-- 👀 I’m a student of University of Technology and Education
+- 👀 I’m a student of [University of Technology and Education](https://hcmute.edu.vn/)
 - 🌱 My very first day using Github : 29/8/2022
 - 📫 How to reach me : 
   #1email: 20104029@student.hcmute.edu.vn
