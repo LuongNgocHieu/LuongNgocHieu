@@ -1,11 +1,12 @@
-<p align="center">👋 Hi, I’m Lương Ngọc Hiếu
-<p align="center"><img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
+👋 Hi, I’m Lương Ngọc Hiếu
 
-<p align="center">👀 I’m a student of [University of Technology and Education](https://hcmute.edu.vn/)
+<img src="https://img.icons8.com/color/48/000000/vietnam-circular.png"/></p>
 
-<p align="center">🌱 My very first day using Github : 29/8/2022
+   👀 I’m a student of [University of Technology and Education](https://hcmute.edu.vn/)
 
-<p align="center">📫 How to reach me : 
+🌱 My very first day using Github : 29/8/2022
+
+📫 How to reach me : 
   #1email: 20104029@student.hcmute.edu.vn
   #2email: luonghieu512@gmail.com
 
